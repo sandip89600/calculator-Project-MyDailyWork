@@ -1,0 +1,23 @@
+.Center{
+     text-align: center;
+     
+}
+.bg{
+     height: auto;
+     align-items: center;
+     border-radius: 10px;
+     background-color: rgb(65, 57, 57);
+}
+
+
+.flex{
+     display: flex;
+
+}
+.flex-col{
+     flex-direction: column;
+}
+
+.item-center{
+     align-items: center;
+}
